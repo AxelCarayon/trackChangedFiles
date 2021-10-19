@@ -7,4 +7,4 @@ The tool is supposed to be run as root and wont work if you're not using sudo or
 
 **./trackChangedFiles.sh (no args)**: track all file changes in the system since the program started
 
-**./trackChangedFiles.sh \"m/d/y H:M:S** : will track all file changes in the system since the outputed date
+**./trackChangedFiles.sh \"m/d/y H:M:S"** : will track all file changes in the system since the outputed date
